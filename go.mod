@@ -1,4 +1,4 @@
-module github.com/eddiezane/hello-client-go
+module github.com/reagul/hello-client-go
 
 go 1.15
 
